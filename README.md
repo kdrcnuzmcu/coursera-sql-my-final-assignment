@@ -1,8 +1,10 @@
 # coursera-sql-my-final-assignment
 
-Bu proje Coursera.org'dan satın aldığım, Databases and SQL for Data Science with Python eğitiminin bitirme ödevi olarak verilmişti. Ben de bu ödevi nasıl başarı ile tamamladığımı sizinle paylaşacağım.
+Bu proje Coursera.org'dan satın aldığım, Databases and SQL for Data Science with Python eğitiminin bitirme ödevi olarak verilmişti. Ödevin soruları ve doğru cevapları ile Jupyter Notebook üzerinde nasıl SQL sorguları yazabileceğinizi göstereceğim.
 
-Ödevin amacı: Üç farklı veriseti üzerinden istenilen kayıtların başarılı bir şekilde sorgulanması. Verisetleri Chicago, ABD'de yaşayan insanların ve o insanların işlediği suçlar, eğitim seviyeleri vs çeşitli bilgiler içeriyor.
+- Ödevin Amacı: Üç farklı veriseti üzerinden istenilen kayıtların başarılı bir şekilde sorgulanması. 
+
+Verisetleri Chicago, ABD'de yaşayan insanların ve o insanların işlediği suçlar, eğitim seviyeleri vs çeşitli bilgiler içeriyor.
 
 Verisetlerimizin kaynağı bizimle önceden paylaşılmıştı. 
   - [Census Data](https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDB0201ENSkillsNetwork22-2022-01-01)
